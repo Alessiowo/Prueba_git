@@ -12,7 +12,7 @@ public class ChisteController {
     private final ChisteService chisteService;
 
     public ChisteController(ChisteService chisteService) {
-        this.chisteService = chisteService hola que hace;
+        this.chisteService = chisteService;
     }
 
     // Endpoint para obtener todos los chistes
